@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Tweets
-In this kernel I perform sentiment analysis on a twitter dataset using the KNN model from scratch
+In this kernel I perform sentiment analysis on a twitter data set using the KNN model from scratch
 
 ## Content Covered
 - NLP
